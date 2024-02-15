@@ -5,7 +5,7 @@ public class StaticVariable {
 
     static {
         System.out.println("Inside static block.");
-        staticVariable = 10; // Initialize static variable
+        staticVariable = 10;
     }
 
     public static void main(String[] args) {
