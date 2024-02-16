@@ -1,4 +1,4 @@
-package com.bridgelabz.logicbuilding;
+package com.bridgelabz.dailyproblem;
 
 import java.util.Scanner;
 
